@@ -17,7 +17,7 @@ public class NeonNumber {
 			n = n / 10;
 		}
 		if (sum == m) {
-			System.out.println("Neon number");
+			System.out.println("Neon number");// A number where sum of digits of square of the no. is equal to the no.
 		} else {
 			System.out.println("Not a neon number");
 		}
