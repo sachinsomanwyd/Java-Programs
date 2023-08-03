@@ -16,7 +16,7 @@ public class HarshadNumber {
 			n = n / 10;
 		}
 		if (m % sum == 0) {
-			System.out.println("Harshad number");
+			System.out.println("Harshad number");// A number which is divisible by sum of its digits
 		} else {
 			System.out.println("Not a harshad number");
 		}
